@@ -1,5 +1,5 @@
 # Hello, world !
-![Monokuma waving](https://i.pinimg.com/originals/6c/24/f6/6c24f68fd1d4f9ecca9e67bedcbbc3b0.gif)\
+![Monokuma waving](https://i.pinimg.com/originals/6c/24/f6/6c24f68fd1d4f9ecca9e67bedcbbc3b0.gif)
 
 ## 👨‍💻 About me
 <!-- TODO add more details about me as time goes on. -->
