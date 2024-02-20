@@ -4,7 +4,7 @@
 ## 👨‍💻 About me
 <!-- TODO add more details about me as time goes on. -->
 My name's Carl Kolodziejski, a french 17 years old student looking to improve his coding skills.\
-**Can't wait to collaborate with you !** \
+**Can't wait to collaborate with you !**
 
 ### ➕ More
 
