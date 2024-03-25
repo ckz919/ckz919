@@ -13,7 +13,7 @@ My name's Carl Kolodziejski, a french 17 years old student looking to improve hi
 
 | Rank | Languages  |
 |-----:|------------|
-|     1| JavaScript |
+|     1| Java       |
 |     2| SQL        |
 |     3| Python     |
 
